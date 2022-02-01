@@ -1,6 +1,7 @@
 % @author Bereket Kebede, EECE 3207 TA SPRING 2022
 
 % plot a polynomial funtion using two methods
+% Aprox, 5 min
 
 % option 1
 t = -10:0.1:10;
