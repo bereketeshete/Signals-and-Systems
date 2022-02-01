@@ -8,4 +8,4 @@ Bonus.m - Bonus excercise template to substitute your low score  <br>
 UnitRampStep.m - Plot Unit, Ramp and Unit-Step <br> <br>
 
 drawpoly.m - plot polynomial given its roots <br>
-drawpoly.m - plot any polynomial function <br>
+plotpoly.m - plot any polynomial function <br>
