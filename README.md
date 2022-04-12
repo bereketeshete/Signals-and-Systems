@@ -1,5 +1,5 @@
 # Signals-and-Systems EECE 3207
-Signals and Systems I EECE3203 and Recitation EECE 3207 <br>
+Signals and Systems I,  EECE3203 and Recitation EECE 3207 <br>
 University of Memphis, Department of Electrical and Computer Engineering <br>
 
 
