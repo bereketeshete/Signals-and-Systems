@@ -2,6 +2,7 @@
 Signals and Systems I,  EECE3203 and Recitation EECE 3207 <br>
 University of Memphis, Department of Electrical and Computer Engineering <br>
 
+TA: Bereket Kebede, bkebede@memphis.edu <br>
 
 ### Fall 2021 Files
 
