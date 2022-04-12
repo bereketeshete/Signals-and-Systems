@@ -13,7 +13,7 @@ a0 = 1;
 a = ( sin (2* pi *k/3)+ sin (4* pi *k / 3 ) ) ./ ( pi *k ) ;
 b = (2 -cos (2* pi *k/3) - cos (4* pi *k / 3 ) )./ ( pi *k ) ;
 
-% Approximation with M=3 harmonics
+% Approximation with M=10 harmonics
 
 for m=1:10 
     xhat = a0*ones ( size ( t ) ) + a (m) * cos (2* pi *m* t /3)+b(m) * sin (2* pi *m* t / 3 ) ;
