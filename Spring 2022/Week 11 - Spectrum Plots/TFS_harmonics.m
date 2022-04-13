@@ -23,6 +23,6 @@ end
 plot ( t , x , t , xhat ) ;
 axis ( [-3 ,3 , -1 ,5] ) ;
 xlabel ('t') ;
-legend( 'Original signal ' , 'Approx . with M=3 ' ) ;
+legend( 'Original signal ' , 'Approx . with M=10 ' ) ;
 grid ;
 
