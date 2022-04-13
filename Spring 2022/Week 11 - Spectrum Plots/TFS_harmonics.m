@@ -15,16 +15,14 @@ b = (2 -cos (2* pi *k/3) - cos (4* pi *k / 3 ) )./ ( pi *k ) ;
 
 % Approximation with M=10 harmonics
 
+xhat= a0*ones ( size ( t ) );
+
 for m=1:10 
-    xhat = a0*ones ( size ( t ) ) + a (m) * cos (2* pi *m* t /3)+b(m) * sin (2* pi *m* t / 3 ) ;
+    xhat = xhat + a (m) * cos (2* pi *m* t /3)+b(m) * sin (2* pi *m* t / 3 ) ;
 end 
 plot ( t , x , t , xhat ) ;
-axis ( [-3 ,3 , -1 ,3.5] ) ;
+axis ( [-3 ,3 , -1 ,5] ) ;
 xlabel ('t') ;
-legend( 'Or iginal signal ' , 'Approx . with M=3 ' ) ;
+legend( 'Original signal ' , 'Approx . with M=3 ' ) ;
 grid ;
-% Approximation e r ror for M=3
-plot ( t , x - xhat) ;
-axis ( [-3 ,3 , -1.2 ,1.2] ) ;
-xlabel ('t') ;
-grid ;
+
