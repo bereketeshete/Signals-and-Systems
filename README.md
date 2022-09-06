@@ -13,3 +13,9 @@ TA: Bereket Kebede, bkebede@memphis.edu <br>
 
 **drawpoly.m** - plot polynomial given its roots <br>
 **plotpoly.m** - plot any polynomial function <br>
+
+## Resources 
+----
+
+Online Matlab code runner: <br>
+https://octave-online.net/
