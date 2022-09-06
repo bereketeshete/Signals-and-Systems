@@ -19,3 +19,5 @@ TA: Bereket Kebede, bkebede@memphis.edu <br>
 
 Online Matlab code runner: <br>
 https://octave-online.net/
+
+![ex]('https://d3mxt5v3yxgcsr.cloudfront.net/courses/1948/course_1948_image.png')
